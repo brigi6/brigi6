@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Brigitta
 #### Design and Development
-![Design and Development]
+
 
 I'm Brigitta from Hungary, and I do content on Design and Development. I really enjoy learning languages and frameworks like React . I also enjoy wireframing, ui, ux, and design in general.
 
