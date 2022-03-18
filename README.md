@@ -2,7 +2,7 @@
 #### Design and Development
 
 
-I'm Brigitta from Hungary, and I do content on Design and Development. I really enjoy learning languages and frameworks like React . I also enjoy wireframing, ui, ux, and design in general.
+I'm Brigitta from Hungary, I’m a frontend developer and graphic designer specializing in building and designing exceptional digital experiences.
 
 Skills: REACT / JS / HTML / CSS
 
